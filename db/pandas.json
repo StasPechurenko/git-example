@@ -53,6 +53,11 @@
             "id": 12,
             "name": "Udavochka",
             "type": "red panda"
+        },
+        {
+            "id": 11,
+            "name": "Toporik",
+            "type": "red panda"
         }
     ]
 }
